@@ -1,0 +1,115 @@
+main {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 3rem;
+  font-family: sans sans-serif;
+  margin-bottom: -10px;
+}
+
+#img-div {
+  background-color: #ffffff;
+  padding: 7px;
+  margin: 0;
+  border-radius: 5px;
+  display: block;
+  justify-content: center;
+  width: 100%
+}
+
+#img-caption {
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+body {
+  width: 80%;
+  max-width: 1000px;
+  min-width: 300px;
+  margin: auto;
+  background-color: #e0e0e0
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+#list {
+   background-color: #FFFFFF;
+   border-radius: 5px
+}
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+  padding: 5px
+}
+
+ul {
+  margin-top: -50px;
+  text-align: left;
+}
+
+li {
+  padding: 10px;
+  font-size: 0.9rem
+}
+
+
+
+#summary, #legacy {
+  font-size: 1.15rem;
+  display: block;
+  text-align: left;
+  margin-top: 40px;
+  width: auto;
+  font-weight: 300
+}
+
+  #quote {
+    margin-top: 50px;
+    font-weight: 500;
+}
+
+  cite {
+    font-size: 0.9rem;
+    padding-left: 10px;
+}
+
+   h3 {
+     font-weight: 350;
+}
+
+  a {
+    color: #0000bb
+}
+
+  a:active {
+    color: grey;
+}
+
+  a:hover {
+    cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  padding: 5px 0 10px;
+  font-style: italic;
+  font-size: .85rem;
+  font-weight: 200;
+  margin: 30px auto 10px;
+}
